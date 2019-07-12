@@ -1,0 +1,10 @@
+<html><head>
+  <title>test1</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/stylesheets/index.css">
+  <link rel="icon" type="image/x-icon" href="/assets/images/site/favicon.ico">
+</head>
+  <body>
+    <h1>This is the test1</h1>
+  </body>
+</html>
